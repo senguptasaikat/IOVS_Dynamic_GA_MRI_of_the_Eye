@@ -1,6 +1,6 @@
 # IOVS_Dynamic_GA_MRI_of_the_Eye
 
-This reporistory hosts the code for reconstruction of Dynamic Eye, Optic Nerve and Extraocular Muscle  MRI images using Golden Angle Radial MRI. This work was presented in 
+This repository hosts the code for reconstruction of Dynamic Eye, Optic Nerve and Extraocular Muscle  MRI images using Golden Angle Radial MRI. This work was presented in 
 
 Sengupta S, Smith DS, Smith AK, Welch EB, Smith SA. Dynamic Imaging of the Eye, Optic Nerve, and Extraocular Muscles With Golden Angle Radial MRI. Invest Ophthalmol Vis Sci. 2017 Aug 1;58(10):4390–4398. doi: 10.1167/iovs.17-21861.
 
