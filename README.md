@@ -6,8 +6,8 @@ Sengupta S, Smith DS, Smith AK, Welch EB, Smith SA. Dynamic Imaging of the Eye, 
 
 The reposiroty holds 3 scripts
 
-1. **recon_Multichannel_GA_Sengupta_IOVS_Aug2017.py** : Python script for main reconstruction of raw data. It uses Matlab files for inout and output. Each reconstructed data channel is stored separately.
-2. **Multichannel_Combine_Sengupta_IOVS_Aug2017.m** : File to combine multiple channels of data. To be run after econ_Multichannel_GA_Sengupta_IOVS_Aug2017.py
+1. **recon_Multichannel_GA_Sengupta_IOVS_Aug2017.py** : Python script for main reconstruction of raw data. It uses Matlab files for input and output. Each reconstructed data channel is stored separately.
+2. **Multichannel_Combine_Sengupta_IOVS_Aug2017.m** : File to combine multiple channels of reconstructed images. To be run after recon_Multichannel_GA_Sengupta_IOVS_Aug2017.py
 3. **coilCombine.m** : File used by Multichannel_Combine_Sengupta_IOVS_Aug2017.m
 
 
